@@ -1,0 +1,25 @@
+{
+  "name": "Test",
+  "authors": [
+    "Eduardo741 <lalo.salme@gmail.com>"
+  ],
+  "description": "prueba",
+  "main": "index.html",
+  "moduleType": [],
+  "keywords": [
+    "test"
+  ],
+  "license": "MIT",
+  "homepage": "index.hmtl",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#1.2.0",
+    "paper-toolbar": "PolymerElements/paper-toolbar#~1.0.4"
+  }
+}
